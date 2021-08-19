@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HoldWeaponMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 0
+  - m_Path: Armature/Back
+    m_Weight: 0
+  - m_Path: Armature/Back/Front
+    m_Weight: 0
+  - m_Path: Armature/Back/Front/Front_end
+    m_Weight: 0
+  - m_Path: Armature/Back/motor
+    m_Weight: 0
+  - m_Path: Armature/Back/motor/motor_end
+    m_Weight: 0
+  - m_Path: Armature/Back/motor/motor_fan
+    m_Weight: 0
+  - m_Path: Armature/Back/Weel_L
+    m_Weight: 0
+  - m_Path: Armature/Back/Weel_L/Weel_L_end
+    m_Weight: 0
+  - m_Path: Armature/Back/Weel_L/wheel_left
+    m_Weight: 0
+  - m_Path: Armature/Back/Weel_R
+    m_Weight: 0
+  - m_Path: Armature/Back/Weel_R/Weel_R_end
+    m_Weight: 0
+  - m_Path: Armature/Back/Weel_R/wheel_right
+    m_Weight: 0
+  - m_Path: car
+    m_Weight: 0
+  - m_Path: pharao
+    m_Weight: 0
+  - m_Path: pharao_armature
+    m_Weight: 0
+  - m_Path: pharao_armature/center
+    m_Weight: 0
+  - m_Path: pharao_armature/center/belly
+    m_Weight: 0
+  - m_Path: pharao_armature/center/belly/chest
+    m_Weight: 0
+  - m_Path: pharao_armature/center/belly/chest/head
+    m_Weight: 0
+  - m_Path: pharao_armature/center/belly/chest/head/head_end
+    m_Weight: 0
+  - m_Path: pharao_armature/center/belly/chest/shoulder.L
+    m_Weight: 0
+  - m_Path: pharao_armature/center/belly/chest/shoulder.L/upperArm.L
+    m_Weight: 0
+  - m_Path: pharao_armature/center/belly/chest/shoulder.L/upperArm.L/lowerArm.L
+    m_Weight: 0
+  - m_Path: pharao_armature/center/belly/chest/shoulder.L/upperArm.L/lowerArm.L/hand.L
+    m_Weight: 0
+  - m_Path: pharao_armature/center/belly/chest/shoulder.L/upperArm.L/lowerArm.L/hand.L/hand.L_end
+    m_Weight: 0
+  - m_Path: pharao_armature/center/belly/chest/shoulder.R
+    m_Weight: 0
+  - m_Path: pharao_armature/center/belly/chest/shoulder.R/upperArm.R
+    m_Weight: 1
+  - m_Path: pharao_armature/center/belly/chest/shoulder.R/upperArm.R/lowerArm.R
+    m_Weight: 1
+  - m_Path: pharao_armature/center/belly/chest/shoulder.R/upperArm.R/lowerArm.R/hand.R
+    m_Weight: 1
+  - m_Path: pharao_armature/center/belly/chest/shoulder.R/upperArm.R/lowerArm.R/hand.R/weapon
+    m_Weight: 1
+  - m_Path: pharao_armature/center/belly/chest/shoulder.R/upperArm.R/lowerArm.R/hand.R/weapon/baseball_bat
+    m_Weight: 1
+  - m_Path: pharao_armature/center/belly/chest/shoulder.R/upperArm.R/lowerArm.R/hand.R/weapon/weapon_end
+    m_Weight: 1
+  - m_Path: pharao_armature/center/upperLeg.L
+    m_Weight: 0
+  - m_Path: pharao_armature/center/upperLeg.L/LowerLeg.L
+    m_Weight: 0
+  - m_Path: pharao_armature/center/upperLeg.L/LowerLeg.L/foot.L
+    m_Weight: 0
+  - m_Path: pharao_armature/center/upperLeg.L/LowerLeg.L/foot.L/foot.L_end
+    m_Weight: 0
+  - m_Path: pharao_armature/center/upperLeg.R
+    m_Weight: 0
+  - m_Path: pharao_armature/center/upperLeg.R/LowerLeg.R
+    m_Weight: 0
+  - m_Path: pharao_armature/center/upperLeg.R/LowerLeg.R/foot.R
+    m_Weight: 0
+  - m_Path: pharao_armature/center/upperLeg.R/LowerLeg.R/foot.R/foot.R_end
+    m_Weight: 0
+  - m_Path: pharao_armature/IKElbow.L
+    m_Weight: 0
+  - m_Path: pharao_armature/IKElbow.L/IKElbow.L_end
+    m_Weight: 0
+  - m_Path: pharao_armature/IKElbow.R
+    m_Weight: 0
+  - m_Path: pharao_armature/IKElbow.R/IKElbow.R_end
+    m_Weight: 0
+  - m_Path: pharao_armature/IKFoot.L
+    m_Weight: 0
+  - m_Path: pharao_armature/IKFoot.L/IKFoot.L_end
+    m_Weight: 0
+  - m_Path: pharao_armature/IKFoot.R
+    m_Weight: 0
+  - m_Path: pharao_armature/IKFoot.R/IKFoot.R_end
+    m_Weight: 0
+  - m_Path: pharao_armature/IKHand.L
+    m_Weight: 0
+  - m_Path: pharao_armature/IKHand.L/IKHand.L_end
+    m_Weight: 0
+  - m_Path: pharao_armature/IKHand.R
+    m_Weight: 0
+  - m_Path: pharao_armature/IKHand.R/IKHand.R_end
+    m_Weight: 0
+  - m_Path: pharao_armature/IKKnee.L
+    m_Weight: 0
+  - m_Path: pharao_armature/IKKnee.L/IKKnee.L_end
+    m_Weight: 0
+  - m_Path: pharao_armature/IKKnee.R
+    m_Weight: 0
+  - m_Path: pharao_armature/IKKnee.R/IKKnee.R_end
+    m_Weight: 0
